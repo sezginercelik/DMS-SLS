@@ -1,10 +1,22 @@
-﻿.claude/
+# Claude Code
+.claude/
+
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+*.py[cod]
+*$py.class
 *.so
+.Python
 *.log
+
+# OS
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
